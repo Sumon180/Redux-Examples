@@ -1,2 +1,3 @@
 # Redux-Examples
-React Redux
+React Redux  
+npm start
